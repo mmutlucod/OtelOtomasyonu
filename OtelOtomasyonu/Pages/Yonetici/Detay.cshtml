@@ -1,0 +1,18 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Yonetici.DetayModel
+@{
+}
+
+<center style="margin-top:150px">
+@foreach (var item in Model.yoneticiListe)
+{
+        <b style="font-size:36px">Yönetici TCKN: <x style="color:blue"> @item.YoneticiTCKN </x> </b>
+    <br />
+        <b style="font-size:36px">Yönetici Adı Soyadı: <x style="color:blue"> @item.YoneticiAdiSoyadi </x> </b>
+    <br />
+        <b style="font-size:36px">Yönetici İşe Başlama Tarihi: <x style="color:blue"> @item.YoneticiIseBaslamaTarihi </x> </b>
+    <br />
+}
+</center>
+
+

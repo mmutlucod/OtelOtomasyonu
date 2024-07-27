@@ -1,0 +1,20 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Lokasyon.DetayModel
+@{
+}
+
+<center style="margin-top:150px">
+@foreach (var item in Model.lokasyonListe)
+{
+        <b style="font-size:36px">Lokasyon Posta Kodu: <x style="color:blue"> @item.LokasyonPostaKodu </x> </b>
+    <br />
+        <b style="font-size:36px">Lokasyon Şehir: <x style="color:blue"> @item.LokasyonSehir </x> </b>
+    <br />
+        <b style="font-size:36px">Lokasyon Cadde: <x style="color:blue"> @item.LokasyonCadde </x> </b>
+    <br />
+        <b style="font-size:36px">Lokasyon Uzaklık: <x style="color:blue"> @item.LokasyonUzaklik </x> </b>
+    <br />
+}
+</center>
+
+

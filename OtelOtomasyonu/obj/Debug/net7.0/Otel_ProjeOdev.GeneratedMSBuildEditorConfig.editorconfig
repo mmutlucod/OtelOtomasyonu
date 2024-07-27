@@ -1,0 +1,167 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Otel_ProjeOdev
+build_property.RootNamespace = Otel_ProjeOdev
+build_property.ProjectDir = E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Lokasyon/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9rYXN5b25cRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Lokasyon/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9rYXN5b25cRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Lokasyon/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9rYXN5b25cRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Lokasyon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9rYXN5b25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Lokasyon/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9rYXN5b25cU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Oda/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2RhXERldGF5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Oda/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2RhXER1emVubGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Oda/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2RhXEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Oda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2RhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Oda/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2RhXFNpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Otel/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RlbFxEZXRheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Otel/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RlbFxEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Otel/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RlbFxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Otel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RlbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Otel/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3RlbFxTaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Politika/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saXRpa2FcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Politika/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saXRpa2FcRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Politika/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saXRpa2FcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Politika/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saXRpa2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Politika/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9saXRpa2FcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Tesis/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzaXNcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Tesis/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzaXNcRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Tesis/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzaXNcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Tesis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Tesis/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzaXNcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Yonetici/Detay.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW9uZXRpY2lcRGV0YXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Yonetici/Duzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW9uZXRpY2lcRHV6ZW5sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Yonetici/Ekle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW9uZXRpY2lcRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Yonetici/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW9uZXRpY2lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Yonetici/Sil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcWW9uZXRpY2lcU2lsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/folex/Desktop/Otel_ProjeOdev/Otel_ProjeOdev/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zf40ci4u2w

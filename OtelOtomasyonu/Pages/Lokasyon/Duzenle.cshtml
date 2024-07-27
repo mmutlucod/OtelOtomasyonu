@@ -1,0 +1,53 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Lokasyon.DuzenleModel
+@{
+}
+@using System.Data.SqlClient;
+
+<br />
+<h2>Lokasyon Düzenle</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
+<form method="POST">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Lokasyon Posta Kodu: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="LokasyonPostaKodu" value="@Model.lokasyonBilgi.LokasyonPostaKodu" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Lokasyon Şehir: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="LokasyonSehir" value="@Model.lokasyonBilgi.LokasyonSehir" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Lokasyon Cadde: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="LokasyonCadde" value="@Model.lokasyonBilgi.LokasyonCadde" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Lokasyon Şehir: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="LokasyonUzaklik" value="@Model.lokasyonBilgi.LokasyonUzaklik" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Gönder</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-danger" href="/Lokasyon" role="button">Geri Dön</a>
+        </div>
+    </div>
+</form>

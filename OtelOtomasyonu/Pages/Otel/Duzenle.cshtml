@@ -1,0 +1,157 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Clients.DuzenleModel
+@{
+}
+@using System.Data.SqlClient;
+
+<br />
+<h2>Otel Düzenle</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
+<form method="POST">
+    <input type="hidden" name="OtelID" value="@Model.OtelBilgi.OtelID" />
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Otel Adı: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="OtelAdi" value="@Model.OtelBilgi.OtelAdi" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Otel Yıldız Sayısı: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="OtelSiralamasi" value="@Model.OtelBilgi.OtelSiralamasi" />
+        </div>
+    </div>
+    <div class="row mb-3 display:flex;">
+        <label class="col-sm-3 col-form-label">Otel Posta Kodu: </label>
+        <div style="display:flex;" class="col-sm-6">
+            
+            <select class="form-select" name="OtelPostaKodu">
+                @foreach (var item in Model.pstList)
+                {
+                     if (Model.OtelBilgi.OtelPostaKodu == item.LokasyonPostaKodu)
+                    {
+                        <option selected value="@item.LokasyonPostaKodu">Posta Kodu: @item.LokasyonPostaKodu, Şehir: @item.LokasyonSehir</option>
+                    }
+                    else
+                    {
+                        <option value="@item.LokasyonPostaKodu">Posta Kodu: @item.LokasyonPostaKodu, Şehir: @item.LokasyonSehir</option>
+                    }
+
+
+                }
+
+
+                
+            </select>
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div>
+                <a href="/Lokasyon/Ekle" style="display:inline-block;">                       
+                <b>Ekle</b>
+                </a>
+            </div>
+            
+
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Otel Politika Kodu:</label>
+        <div style="display:flex;" class="col-sm-6">
+
+                <select class="form-select" name="OtelPolitikaKodu">
+
+                <option >@Model.OtelBilgi.OtelPolitikaKodu</option>
+                @foreach(var item in Model.ptList)
+                {
+                    if (Model.OtelBilgi.OtelPolitikaKodu != item.PolitikaKod)
+                    {
+                        <option>@item.PolitikaKod</option>
+                    }
+
+                }
+                </select>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <div>
+                    <a href="/Politika/Ekle" style="display:inline-block;">                       
+                        <b>Ekle</b>
+                    </a>
+                </div>
+                </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Otel Tesis Kodu: </label>
+        <div style="display:flex;" class="col-sm-6">
+                            
+            <select class="form-select" name="OtelTesisKodu">
+                <option >@Model.OtelBilgi.OtelTesisKodu</option>
+                @foreach(var item in Model.tsList)
+                {
+                    if (Model.OtelBilgi.OtelTesisKodu != item.TesisKodu)
+                    {
+                        <option>@item.TesisKodu</option>
+                    }
+
+                }
+            </select>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <div>
+                    <a href="/Tesis/Ekle" style="display:inline-block;">                       
+                        <b>Ekle</b>
+                    </a>
+                </div>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Otel Yönetici TCKN: </label>
+        <div style="display:flex;" class="col-sm-6">
+                <select class="form-select" name="OtelYoneticiID">
+                    @foreach(var item in Model.yntList)
+                    {
+                    if (Model.OtelBilgi.OtelYoneticiID == item.OtelYoneticiID)
+                            {
+                        <option selected value="@item.OtelYoneticiID">Yönetici TCKN: @item.OtelYoneticiTCKN, Yönetici Adı Soyadı: @item.OtelYoneticiAdiSoyadi</option>
+                            }
+                            else
+                            {
+                        <option value="@item.OtelYoneticiID">Yönetici TCKN: @item.OtelYoneticiTCKN, Yönetici Adı Soyadı: @item.OtelYoneticiAdiSoyadi</option>
+                            }
+
+
+                    }
+                 </select>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <div>
+                    <a href="/Yonetici/Ekle" style="display:inline-block;">                       
+                        <b>Ekle</b>
+                    </a>
+                </div>
+
+</div>
+    </div>
+
+   @* @if (Model.errorMessage.Length > 0)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <strong>@Model.successMessage</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }*@
+
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Gönder</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-danger" href="/" role="button">Geri Dön</a>
+        </div>
+    </div>
+</form>

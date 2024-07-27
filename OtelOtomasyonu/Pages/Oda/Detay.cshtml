@@ -1,0 +1,22 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Oda.DetayModel
+@{
+}
+
+<center style="margin-top:150px">
+@foreach (var item in Model.odaListe)
+{
+        <b style="font-size:36px">Oda No: <x style="color:blue"> @item.OdaNo </x> </b>
+    <br />
+        <b style="font-size:36px">Oda Türü: <x style="color:blue"> @item.OdaTuru </x> </b>
+    <br />
+        <b style="font-size:36px">Oda Fiyat: <x style="color:blue"> @item.OdaFiyat </x> </b>
+    <br />
+        <b style="font-size:36px">Oda Doluluk Oranı: <x style="color:blue"> @item.OdaDolulukOrani </x> </b>
+   <br />
+        <b style="font-size:36px">Oda Otel Adı: <x style="color:blue"> @item.OdaOtelAdi </x> </b>
+   <br />
+}
+</center>
+
+

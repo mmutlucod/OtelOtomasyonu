@@ -1,0 +1,47 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Clients.IndexModel
+@{
+}
+
+<br />
+
+<h2>
+    <center> Otel Listesi</center>
+</h2>
+
+<a class="btn btn-primary btn-sm" href="Otel/Ekle">Yeni Otel</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Otel Adı</th>
+            <th>Otel Sıralaması</th>
+            <th>Otel Posta Kodu</th>
+            <th>Otel Politika Kodu</th>
+            <th>Otel Tesis Kodu</th>
+            <th>Otel Yönetici Adı Soyadı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listele)
+        {
+        <tr>
+            <td><a style="color:red;">@item.OtelID</a></td>
+            <td><a href="/Otel/Detay?id=@item.OtelID">@item.OtelAdi</td>
+                <td><a>@item.OtelSiralamasi</a></td>
+            <td><a href="/Lokasyon/Detay?id=@item.OtelPostaKodu">@item.OtelPostaKodu</a></td>
+            <td><a href="/Politika/Detay?id=@item.OtelPolitikaKodu">@item.OtelPolitikaKodu</a></td>
+            <td><a href="/Tesis/Detay?id=@item.OtelTesisKodu">@item.OtelTesisKodu</a></td>
+                <td><a href="/Yonetici/Detay?id=@item.OtelYoneticiID">@item.OtelYoneticiAdiSoyadi</a></td>
+            <td>
+                <a class="btn btn-warning btn-sm" href="/Otel/Detay?id=@item.OtelID">Detay </a>
+                <a class="btn btn-primary btn-sm" href="/Otel/Duzenle?id=@item.OtelID">Düzenle</a>
+                <a class="btn btn-danger btn-sm" href="/Otel/Sil?id=@item.OtelID">Sil</a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>

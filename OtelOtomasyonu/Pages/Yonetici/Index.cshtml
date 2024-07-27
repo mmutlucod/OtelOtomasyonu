@@ -1,0 +1,39 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Yonetici.IndexModel
+@{
+}
+
+<br />
+
+<h2>
+    <center> Yönetici Listesi</center>
+</h2>
+
+<a class="btn btn-primary btn-sm" href="Yonetici/Ekle">Yeni Yönetici</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Yönetici TCKN</th>
+            <th>Yönetici Adı Soyadı</th>
+            <th>Yönetici İşe Başlama Tarihi</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listele)
+        {
+        <tr>
+                <td><a style="color:red;">@item.YoneticiTCKN</a></td>
+                <td><a>@item.YoneticiAdiSoyadi</a></td>
+                <td><a>@item.YoneticiIseBaslamaTarihi</a></td>
+            <td>
+                    <a class="btn btn-warning btn-sm" href="/Yonetici/Detay?id=@item.YoneticiID">Detay </a>
+                    <a class="btn btn-primary btn-sm" href="/Yonetici/Duzenle?id=@item.YoneticiID">Düzenle</a>
+                    <a class="btn btn-danger btn-sm" href="/Yonetici/Sil?id=@item.YoneticiID">Sil</a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>

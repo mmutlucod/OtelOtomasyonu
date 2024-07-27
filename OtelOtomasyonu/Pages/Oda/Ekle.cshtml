@@ -1,0 +1,80 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Oda.EkleModel
+@{
+    
+}
+
+
+<br />
+
+<h2>Yeni Oda</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<form method="POST">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Oda No: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="OdaNo" value="@Model.odaBilgi.OdaNo" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Oda Türü: </label>
+        <div class="col-sm-6">
+            <select class="form-select" name="OdaTuru">
+                <option value="Tek Kişilik Oda">Tek Kişilik Oda</option>
+                <option value="Çift Kişilik Oda">Çift Kişilik Oda</option>
+                <option value="Üç Kişilik Oda">Üç Kişilik Oda</option>
+                <option value="Dört Kişilik Oda">Dört Kişilik Oda</option>
+                <option value="Aile Odası">Aile Odası</option>
+                <option value="Kral Dairesi">Kral Dairesi</option>
+                <option value="Engelli Odası">Engelli Odası</option>
+                <option value="Junior Suite">Junior Suite</option>
+                <option value="Dubleks Oda">Dubleks Oda</option>
+                <option value="Suit Oda">Suit Oda</option>
+            </select>
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Oda Fiyat: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="OdaFiyat" value="@Model.odaBilgi.OdaFiyat" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Oda Doluluk Oranı: </label>
+        <div class="col-sm-6">
+            <input type="number" step="1" max="100" maxlength="3" class="form-control" name="OdaDolulukOrani" value="@Model.odaBilgi.OdaDolulukOrani" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Otel: </label>
+        <div style="display:flex;" class="col-sm-6">
+
+            <select class="form-select" name="OdaOtelID">
+                <option value="">Bir seçim yapınız...</option>
+                @foreach (var item in Model.otelSelectList)
+                {
+
+                    <option value="@item.OtelID">@item.OtelAdi</option>
+                }
+            </select>
+
+
+        </div>
+    </div>
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Gönder</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-danger" href="/Oda" role="button">Geri Dön</a>
+        </div>
+    </div>
+</form>

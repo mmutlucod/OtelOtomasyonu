@@ -1,0 +1,49 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Yonetici.DuzenleModel
+@{
+}
+@using System.Data.SqlClient;
+
+<br />
+<h2>Yönetici Düzenle</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        <strong>@Model.errorMessage</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+
+<form method="POST">
+    <input type="hidden" name="YoneticiID" value="@Model.YoneticiBilgi.YoneticiID" />
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Yönetici TCKN: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="YoneticiTCKN" value="@Model.YoneticiBilgi.YoneticiTCKN" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Yönetici Adı Soyadı: </label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="YoneticiAdiSoyadi" value="@Model.YoneticiBilgi.YoneticiAdiSoyadi" />
+        </div>
+    </div>
+        <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">Yönetici İşe Başlama Tarihi: </label>
+        <div class="col-sm-6">
+            <input type="date" class="form-control" name="YoneticiIseBaslamaTarihi" value="@Model.YoneticiBilgi.YoneticiIseBaslamaTarihi" />
+        </div>
+    </div>
+
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Gönder</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-danger" href="/Yonetici" role="button">Geri Dön</a>
+        </div>
+    </div>
+</form>

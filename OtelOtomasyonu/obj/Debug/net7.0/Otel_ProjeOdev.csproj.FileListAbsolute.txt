@@ -1,0 +1,152 @@
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.staticwebassets.runtime.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.exe
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.deps.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.runtimeconfig.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.pdb
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.AssemblyReference.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfoInputs.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfo.cs
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CoreCompileInputs.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cs
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.Otel_ProjeOdev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.build.Otel_ProjeOdev.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Otel_ProjeOdev.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Otel_ProjeOdev.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\bundle\Otel_ProjeOdev.styles.css
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\projectbundle\Otel_ProjeOdev.bundle.scp.css
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CopyComplete
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\refint\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.pdb
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.genruntimeconfig.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\ref\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.AssemblyReference.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfoInputs.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfo.cs
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CoreCompileInputs.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cs
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\refint\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.pdb
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.staticwebassets.runtime.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.exe
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.deps.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.runtimeconfig.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.pdb
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.Otel_ProjeOdev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.build.Otel_ProjeOdev.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Otel_ProjeOdev.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Otel_ProjeOdev.props
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\bundle\Otel_ProjeOdev.styles.css
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\projectbundle\Otel_ProjeOdev.bundle.scp.css
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CopyComplete
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.genruntimeconfig.cache
+C:\Users\umut_\OneDrive\Desktop\OtelProje\otelproje 2\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\ref\Otel_ProjeOdev.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.staticwebassets.runtime.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.exe
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.deps.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.runtimeconfig.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.pdb
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.AssemblyReference.cache
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfoInputs.cache
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfo.cs
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CoreCompileInputs.cache
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cache
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cs
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.Otel_ProjeOdev.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.build.Otel_ProjeOdev.props
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Otel_ProjeOdev.props
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Otel_ProjeOdev.props
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\bundle\Otel_ProjeOdev.styles.css
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\projectbundle\Otel_ProjeOdev.bundle.scp.css
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CopyComplete
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\refint\Otel_ProjeOdev.dll
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.pdb
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.genruntimeconfig.cache
+C:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\ref\Otel_ProjeOdev.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.Development.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\appsettings.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.staticwebassets.runtime.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.exe
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.deps.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.runtimeconfig.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\Otel_ProjeOdev.pdb
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.AssemblyReference.cache
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfoInputs.cache
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.AssemblyInfo.cs
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CoreCompileInputs.cache
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.MvcApplicationPartsAssemblyInfo.cache
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cache
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.RazorAssemblyInfo.cs
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.build.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.development.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.Otel_ProjeOdev.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.build.Otel_ProjeOdev.props
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Otel_ProjeOdev.props
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Otel_ProjeOdev.props
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\bundle\Otel_ProjeOdev.styles.css
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\scopedcss\projectbundle\Otel_ProjeOdev.bundle.scp.css
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.csproj.CopyComplete
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\refint\Otel_ProjeOdev.dll
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.pdb
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\Otel_ProjeOdev.genruntimeconfig.cache
+E:\Users\folex\Desktop\Otel_ProjeOdev\Otel_ProjeOdev\obj\Debug\net7.0\ref\Otel_ProjeOdev.dll

@@ -1,0 +1,24 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Otel.DetayModel
+@{
+}
+
+<center style="margin-top:150px">
+@foreach (var item in Model.otelListe)
+{
+        <b style="font-size:36px">Otel ID: <x style="color:blue"> @item.OtelID </x> </b>
+    <br />
+        <b style="font-size:36px">Otel Adı: <x style="color:blue"> @item.OtelAdi </x> </b>
+    <br />
+        <b style="font-size:36px">Otel Yıldız Sayısı: <x style="color:blue"> @item.OtelSiralamasi </x> </b>
+    <br />
+        <b style="font-size:36px">Otel Posta Kodu: <x style="color:blue"> @item.OtelPostaKodu </x> </b>
+   <br />
+        <b style="font-size:36px">Otel Tesis Kodu: <x style="color:blue"> @item.OtelTesisKodu </x> </b>
+   <br />
+        <b style="font-size:36px">Otel Yöneticisinin Adı Soyadı: <x style="color:blue"> @item.OtelYoneticiAdiSoyadi </x> </b>
+    <br />
+}
+</center>
+
+

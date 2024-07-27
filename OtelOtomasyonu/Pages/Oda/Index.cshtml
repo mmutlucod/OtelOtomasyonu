@@ -1,0 +1,47 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Oda.IndexModel
+@{
+}
+
+<br />
+
+<h2>
+    <center>
+        Oda Listesi
+    </center>
+</h2>
+
+<a class="btn btn-primary btn-sm" href="Oda/Ekle">Yeni Oda</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Oda ID</th>
+            <th>Oda No</th>
+            <th>Oda Türü</th>
+            <th>Oda Fiyatı</th>
+            <th>Oda Doluluk Oranı</th>
+            <th>Otel Adı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listele)
+        {
+        <tr>
+                <td><a style="color:red;font-weight:bold;">@item.OdaID</a></td>
+                <td><a>@item.OdaNo</a></td>
+                <td><a>@item.OdaTuru</a></td>
+                <td><a>@item.OdaFiyat</a></td>
+                <td><a>@item.OdaDolulukOrani</a></td>
+                <td><a href ="/Otel/Detay?id=@item.OdaOtelID">@item.OdaOtelAdi</a></td>
+            <td>
+                <a class="btn btn-warning btn-sm" href="/Oda/Detay?id=@item.OdaID">Detay </a>
+                <a class="btn btn-primary btn-sm" href="/Oda/Duzenle?id=@item.OdaID">Düzenle</a>
+                <a class="btn btn-danger btn-sm" href="/Oda/Sil?id=@item.OdaID">Sil</a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>

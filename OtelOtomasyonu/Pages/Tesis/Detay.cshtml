@@ -1,0 +1,20 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Tesis.DetayModel
+@{
+}
+
+<center style="margin-top:150px">
+@foreach (var item in Model.tesisListe)
+{
+        <b style="font-size:36px">Tesis Kodu: <x style="color:blue"> @item.TesisKodu </x> </b>
+    <br />
+        <b style="font-size:36px">Tesis Spor Salonu: <x style="color:blue"> @item.TesisSporSalonu </x> </b>
+    <br />
+        <b style="font-size:36px">Tesis Restoran: <x style="color:blue"> @item.TesisRestoran </x> </b>
+    <br />
+        <b style="font-size:36px">Tesis Kafe: <x style="color:blue"> @item.TesisKafe </x> </b>
+   <br />
+}
+</center>
+
+

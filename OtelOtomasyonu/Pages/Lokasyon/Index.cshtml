@@ -1,0 +1,41 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Lokasyon.IndexModel
+@{
+}
+
+<br />
+
+<h2>
+    <center>Lokasyon Listesi</center>
+</h2>
+
+<a class="btn btn-primary btn-sm" href="Lokasyon/Ekle">Yeni Lokasyon</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Lokasyon Posta Kodu</th>
+            <th>Lokasyon Şehir</th>
+            <th>Lokasyon Cadde</th>
+            <th>Lokasyon Uzaklık</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listele)
+        {
+        <tr>
+                <td><a style="color:red;">@item.LokasyonPostaKodu</a></td>
+                <td><a>@item.LokasyonSehir</a></td>
+                <td><a>@item.LokasyonCadde</a></td>
+                <td><a>@item.LokasyonUzaklik</a></td>
+            <td>
+                <a class="btn btn-warning btn-sm" href="/Lokasyon/Detay?id=@item.LokasyonPostaKodu">Detay </a>
+                <a class="btn btn-primary btn-sm" href="/Lokasyon/Duzenle?id=@item.LokasyonPostaKodu">Düzenle</a>
+                <a class="btn btn-danger btn-sm" href="/Lokasyon/Sil?id=@item.LokasyonPostaKodu">Sil</a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>

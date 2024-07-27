@@ -1,0 +1,41 @@
+﻿@page
+@model Otel_ProjeOdev.Pages.Tesis.IndexModel
+@{
+}
+
+<br />
+
+<h2>
+    <center>Tesis Listesi</center>
+</h2>
+
+<a class="btn btn-primary btn-sm" href="Tesis/Ekle">Yeni Tesis</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tesis Kodu</th>
+            <th>Tesis Spor Salonu</th>
+            <th>Tesis Restoran</th>
+            <th>Tesis Kafe</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listele)
+        {
+        <tr>
+                <td><a style="color:red;">@item.TesisKodu</a></td>
+                <td><a>@item.TesisSporSalonu</a></td>
+                <td><a>@item.TesisRestoran</a></td>
+                <td><a>@item.TesisKafe</a></td>
+            <td>
+                <a class="btn btn-warning btn-sm" href="/Tesis/Detay?id=@item.TesisKodu">Detay </a>
+                <a class="btn btn-primary btn-sm" href="/Tesis/Duzenle?id=@item.TesisKodu">Düzenle</a>
+                <a class="btn btn-danger btn-sm" href="/Tesis/Sil?id=@item.TesisKodu">Sil</a>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>
